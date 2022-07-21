@@ -1,4 +1,4 @@
-# *⚒Level 7 - Whitelist dApp (Sophomore Track on [LeanWeb3DAO)](https://www.learnweb3.io/)*
+# *⚒Level 8 - NFT Collection (Sophomore Track on [LeanWeb3DAO)](https://www.learnweb3.io/)*
 
 #### _Table of contents_
 
